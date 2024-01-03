@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//This app was created for Education Purposes and not for commercial Use❤️
 void showMenu() {
      cout << "WELCOME TO ZEDCASH OFFICIAL" <<endl;
      cout << "**************MENU**************" <<endl;
