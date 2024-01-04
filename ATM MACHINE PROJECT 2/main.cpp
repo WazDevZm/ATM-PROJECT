@@ -14,6 +14,8 @@ void showMenu() {
 
 int main()
 {
+
+     //Programmed with care!
     //Check balance, deposit, withdraw, show menu
     int option;
     double balance= 0;
