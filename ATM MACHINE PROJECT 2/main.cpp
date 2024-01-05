@@ -15,7 +15,7 @@ void showMenu() {
 int main()
 {
 
-     //Programmed with care!
+     //Programmed with care Matrix
     //Check balance, deposit, withdraw, show menu
     int option;
     double balance= 0;
